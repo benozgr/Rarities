@@ -1,0 +1,5 @@
+name: Rarities
+version: '${project.version}'
+main: me.benozgr.Rarities.Rarities
+api-version: '1.18'
+authors: [benozgr]

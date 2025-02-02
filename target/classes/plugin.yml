@@ -1,0 +1,8 @@
+name: Rarities
+main: me.benozgr.Rarities.Rarities
+version: 1.0
+api-version: 1.18
+commands:
+  rarities:
+    description: Ana komut
+    usage: /<command>

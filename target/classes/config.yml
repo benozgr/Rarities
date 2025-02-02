@@ -1,0 +1,513 @@
+
+items:
+  DIAMOND_SWORD:
+    Common:
+      chance: 65
+      effects: []
+      name: "§fYaygın Elmas Kılıç"
+      lore:
+        - "&7Sıradan bir kılıç"
+    Rare:
+      chance: 30
+      effects:
+        - type: INCREASE_DAMAGE
+          level: 1
+      name: "§bNadir Elmas Kılıç"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +1 Kuvvet Etkisi"
+    Legendary:
+      chance: 5
+      effects:
+        - type: INCREASE_DAMAGE
+          level: 2
+        - type: REGENERATION
+          level: 2
+        - type: SPEED
+          level: 1
+      name: "§6Efsanevi Elmas Kılıç"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +2 Kuvvet Etkisi"
+        - "§c +2 Yenilenme Etkisi"
+        - "§c +1 Hız Etkisi"
+
+  IRON_SWORD:
+    Common:
+      chance: 65
+      effects: []
+      name: "§fYaygın Demir Kılıç"
+      lore:
+        - "&7Sıradan bir kılıç"
+    Rare:
+      chance: 30
+      effects:
+        - type: INCREASE_DAMAGE
+          level: 1
+      name: "§bNadir Demir Kılıç"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +1 Kuvvet Etkisi"
+    Legendary:
+      chance: 5
+      effects:
+        - type: INCREASE_DAMAGE
+          level: 2
+        - type: REGENERATION
+          level: 2
+        - type: SPEED
+          level: 1
+      name: "§6Efsanevi Demir Kılıç"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +2 Kuvvet Etkisi"
+        - "§c +2 Yenilenme Etkisi"
+        - "§c +1 Hız Etkisi"
+
+  GOLDEN_SWORD:
+    Common:
+      chance: 65
+      effects: []
+      name: "§fYaygın Altın Kılıç"
+      lore:
+        - "&7Sıradan bir kılıç"
+    Rare:
+      chance: 30
+      effects:
+        - type: INCREASE_DAMAGE
+          level: 1
+      name: "§bNadir Altın Kılıç"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +1 Kuvvet Etkisi"
+    Legendary:
+      chance: 5
+      effects:
+        - type: INCREASE_DAMAGE
+          level: 2
+        - type: REGENERATION
+          level: 2
+        - type: SPEED
+          level: 1
+      name: "§6Efsanevi Altın Kılıç"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +2 Kuvvet Etkisi"
+        - "§c +2 Yenilenme Etkisi"
+        - "§c +1 Hız Etkisi"
+
+  NETHERITE_SWORD:
+    Common:
+      chance: 65
+      effects: []
+      name: "§fYaygın Netherite Kılıç"
+      lore:
+        - "&7Sıradan bir kılıç"
+    Rare:
+      chance: 30
+      effects:
+        - type: INCREASE_DAMAGE
+          level: 1
+      name: "§bNadir Netherite Kılıç"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +1 Kuvvet Etkisi"
+    Legendary:
+      chance: 5
+      effects:
+        - type: INCREASE_DAMAGE
+          level: 2
+        - type: REGENERATION
+          level: 2
+        - type: SPEED
+          level: 1
+      name: "§6Efsanevi Netherite Kılıç"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +2 Kuvvet Etkisi"
+        - "§c +2 Yenilenme Etkisi"
+        - "§c +1 Hız Etkisi"
+
+  DIAMOND_PICKAXE:
+    Common:
+      chance: 65
+      effects: []
+      name: "§fYaygın Elmas Kazma"
+      lore:
+        - "&7Sıradan bir kazma"
+    Rare:
+      chance: 30
+      effects:
+        - type: FAST_DIGGING
+          level: 1
+      name: "§bNadir Elmas Kazma"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +1 Acele Etkisi"
+    Legendary:
+      chance: 5
+      effects:
+        - type: FAST_DIGGING
+          level: 2
+        - type: REGENERATION
+          level: 2
+        - type: SPEED
+          level: 1
+      name: "§6Efsanevi Elmas Kazma"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +2 Acele Etkisi"
+        - "§c +2 Yenilenme Etkisi"
+        - "§c +1 Hız Etkisi"
+
+  IRON_PICKAXE:
+    Common:
+      chance: 65
+      effects: []
+      name: "§fYaygın Demir Kazma"
+      lore:
+        - "&7Sıradan bir kazma"
+    Rare:
+      chance: 30
+      effects:
+        - type: FAST_DIGGING
+          level: 1
+      name: "§bNadir Demir Kazma"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +1 Acele Etkisi"
+    Legendary:
+      chance: 5
+      effects:
+        - type: FAST_DIGGING
+          level: 2
+        - type: REGENERATION
+          level: 2
+        - type: SPEED
+          level: 1
+      name: "§6Efsanevi Demir Kazma"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +2 Acele Etkisi"
+        - "§c +2 Yenilenme Etkisi"
+        - "§c +1 Hız Etkisi"
+
+  GOLDEN_PICKAXE:
+    Common:
+      chance: 65
+      effects: []
+      name: "§fYaygın Altın Kazma"
+      lore:
+        - "&7Sıradan bir kazma"
+    Rare:
+      chance: 30
+      effects:
+        - type: FAST_DIGGING
+          level: 1
+      name: "§bNadir Altın Kazma"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +1 Acele Etkisi"
+    Legendary:
+      chance: 5
+      effects:
+        - type: FAST_DIGGING
+          level: 2
+        - type: REGENERATION
+          level: 2
+        - type: SPEED
+          level: 1
+      name: "§6Efsanevi Altın Kazma"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +2 Acele Etkisi"
+        - "§c +2 Yenilenme Etkisi"
+        - "§c +1 Hız Etkisi"
+
+  NETHERITE_PICKAXE:
+    Common:
+      chance: 65
+      effects: []
+      name: "§fYaygın Netherite Kazma"
+      lore:
+        - "&7Sıradan bir kazma"
+    Rare:
+      chance: 30
+      effects:
+        - type: FAST_DIGGING
+          level: 1
+      name: "§bNadir Netherite Kazma"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +1 Acele Etkisi"
+    Legendary:
+      chance: 5
+      effects:
+        - type: FAST_DIGGING
+          level: 2
+        - type: REGENERATION
+          level: 2
+        - type: SPEED
+          level: 1
+      name: "§6Efsanevi Netherite Kazma"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +2 Acele Etkisi"
+        - "§c +2 Yenilenme Etkisi"
+        - "§c +1 Hız Etkisi"
+
+  DIAMOND_AXE:
+    Common:
+      chance: 65
+      effects: []
+      name: "§fYaygın Elmas Balta"
+      lore:
+        - "&7Sıradan bir balta"
+    Rare:
+      chance: 30
+      effects:
+        - type: FAST_DIGGING
+          level: 1
+      name: "§bNadir Elmas Balta"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +1 Acele Etkisi"
+    Legendary:
+      chance: 5
+      effects:
+        - type: FAST_DIGGING
+          level: 2
+        - type: INCREASE_DAMAGE
+          level: 1
+        - type: SPEED
+          level: 1
+      name: "§6Efsanevi Elmas Balta"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +2 Acele Etkisi"
+        - "§c +1 Kuvvet Etkisi"
+        - "§c +1 Hız Etkisi"
+
+  IRON_AXE:
+    Common:
+      chance: 65
+      effects: []
+      name: "§fYaygın Demir Balta"
+      lore:
+        - "&7Sıradan bir balta"
+    Rare:
+      chance: 30
+      effects:
+        - type: FAST_DIGGING
+          level: 1
+      name: "§bNadir Demir Balta"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +1 Acele Etkisi"
+    Legendary:
+      chance: 5
+      effects:
+        - type: FAST_DIGGING
+          level: 2
+        - type: INCREASE_DAMAGE
+          level: 1
+        - type: SPEED
+          level: 1
+      name: "§6Efsanevi Demir Balta"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +2 Acele Etkisi"
+        - "§c +1 Kuvvet Etkisi"
+        - "§c +1 Hız Etkisi"
+
+  GOLDEN_AXE:
+    Common:
+      chance: 65
+      effects: []
+      name: "§fYaygın Altın Balta"
+      lore:
+        - "&7Sıradan bir balta"
+    Rare:
+      chance: 30
+      effects:
+        - type: FAST_DIGGING
+          level: 1
+      name: "§bNadir Altın Balta"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +1 Acele Etkisi"
+    Legendary:
+      chance: 5
+      effects:
+        - type: FAST_DIGGING
+          level: 2
+        - type: INCREASE_DAMAGE
+          level: 1
+        - type: SPEED
+          level: 1
+      name: "§6Efsanevi Altın Balta"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +2 Acele Etkisi"
+        - "§c +1 Kuvvet Etkisi"
+        - "§c +1 Hız Etkisi"
+
+  NETHERITE_AXE:
+    Common:
+      chance: 65
+      effects: []
+      name: "§fYaygın Netherite Balta"
+      lore:
+        - "&7Sıradan bir balta"
+    Rare:
+      chance: 30
+      effects:
+        - type: FAST_DIGGING
+          level: 1
+      name: "§bNadir Netherite Balta"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +1 Acele Etkisi"
+    Legendary:
+      chance: 5
+      effects:
+        - type: FAST_DIGGING
+          level: 2
+        - type: INCREASE_DAMAGE
+          level: 1
+        - type: SPEED
+          level: 1
+      name: "§6Efsanevi Netherite Balta"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +2 Acele Etkisi"
+        - "§c +1 Kuvvet Etkisi"
+        - "§c +1 Hız Etkisi"
+
+  DIAMOND_SHOVEL:
+    Common:
+      chance: 65
+      effects: []
+      name: "§fYaygın Elmas Kürek"
+      lore:
+        - "&7Sıradan bir kürek"
+    Rare:
+      chance: 30
+      effects:
+        - type: FAST_DIGGING
+          level: 1
+      name: "§bNadir Elmas Kürek"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +1 Acele Etkisi"
+    Legendary:
+      chance: 5
+      effects:
+        - type: FAST_DIGGING
+          level: 2
+        - type: REGENERATION
+          level: 2
+        - type: SPEED
+          level: 1
+      name: "§6Efsanevi Elmas Kürek"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +2 Acele Etkisi"
+        - "§c +2 Yenilenme Etkisi"
+        - "§c +1 Hız Etkisi"
+
+  IRON_SHOVEL:
+    Common:
+      chance: 65
+      effects: []
+      name: "§fYaygın Demir Kürek"
+      lore:
+        - "&7Sıradan bir kürek"
+    Rare:
+      chance: 30
+      effects:
+        - type: FAST_DIGGING
+          level: 1
+      name: "§bNadir Demir Kürek"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +1 Acele Etkisi"
+    Legendary:
+      chance: 5
+      effects:
+        - type: FAST_DIGGING
+          level: 2
+        - type: REGENERATION
+          level: 2
+        - type: SPEED
+          level: 1
+      name: "§6Efsanevi Demir Kürek"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +2 Acele Etkisi"
+        - "§c +2 Yenilenme Etkisi"
+        - "§c +1 Hız Etkisi"
+
+  GOLDEN_SHOVEL:
+    Common:
+      chance: 65
+      effects: []
+      name: "§fYaygın Altın Kürek"
+      lore:
+        - "&7Sıradan bir kürek"
+    Rare:
+      chance: 30
+      effects:
+        - type: FAST_DIGGING
+          level: 1
+      name: "§bNadir Altın Kürek"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +1 Acele Etkisi"
+    Legendary:
+      chance: 5
+      effects:
+        - type: FAST_DIGGING
+          level: 2
+        - type: REGENERATION
+          level: 2
+        - type: SPEED
+          level: 1
+      name: "§6Efsanevi Altın Kürek"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +2 Acele Etkisi"
+        - "§c +2 Yenilenme Etkisi"
+        - "§c +1 Hız Etkisi"
+
+  NETHERITE_SHOVEL:
+    Common:
+      chance: 65
+      effects: []
+      name: "§fYaygın Netherite Kürek"
+      lore:
+        - "&7Sıradan bir kürek"
+    Rare:
+      chance: 30
+      effects:
+        - type: FAST_DIGGING
+          level: 1
+      name: "§bNadir Netherite Kürek"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +1 Acele Etkisi"
+    Legendary:
+      chance: 5
+      effects:
+        - type: FAST_DIGGING
+          level: 2
+        - type: REGENERATION
+          level: 2
+        - type: SPEED
+          level: 1
+      name: "§6Efsanevi Netherite Kürek"
+      lore:
+        - "§7► §eEldeyken:"
+        - "§c +2 Acele Etkisi"
+        - "§c +2 Yenilenme Etkisi"
+        - "§c +1 Hız Etkisi"

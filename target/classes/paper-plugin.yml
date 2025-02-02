@@ -1,0 +1,5 @@
+name: Rarities
+version: '1.0-Beta'
+main: me.benozgr.Rarities.Rarities
+api-version: '1.18'
+authors: [benozgr]
